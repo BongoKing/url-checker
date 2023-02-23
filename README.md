@@ -2,6 +2,8 @@
 
 Littel python script to check a url list in the csv format for broken urls.
 
+Status: Not continued
+
 # for the vfu file
 Download Scrapy
 pip install Scrapy
